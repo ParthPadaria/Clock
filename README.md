@@ -77,24 +77,7 @@ text-shadow: 0 0 20px rgba(56, 189, 248, 0.6); /* time glow */
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
-
-## 🗺️ Future Ideas
-
-- [ ] 12/24-hour toggle
-- [ ] Light/dark theme switch
-- [ ] Timezone selector
-- [ ] Alarm feature
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/new-feature`)
-3. Commit your changes (`git commit -m "Add new feature"`)
-4. Push to the branch (`git push origin feature/new-feature`)
-5. Open a Pull Request
+- JavaScript
 
 ## 👤 Author
 
